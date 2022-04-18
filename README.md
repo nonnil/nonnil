@@ -1,4 +1,4 @@
 ### Links
-[Matrix](https://matrix.to/#/@mlwr:matrix.org)
+[⛓️ Matrix](https://matrix.to/#/@mlwr:matrix.org)
 
-[Telegram](https://t.me/nillability)
+[✈️ Telegram](https://t.me/nillability)
