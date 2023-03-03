@@ -11,4 +11,4 @@
 - E-Mail: [nillability@protonmail.com](mailto:nillability@protonmail.com)
 - Telegram: [@unittype](https://t.me/unittype)
 - Matrix: [mlwr](https://matrix.to/#/@mlwr:matrix.org)
-- NotABug: [nulled](https://notabug.org/nulled)
+- NotABug: [nl](https://notabug.org/nl)
