@@ -9,7 +9,7 @@
 
 📫 How to reach me:
 - www: [p.exploit.rs](https://p.exploit.rs/nil)
-- E-Mail: [nullopt_t@proton.me](mailto:nullopt_t@proton.me)
+- E-Mail: [nil@exploit.rs](mailto:nil@exploit.rs)
 - Telegram: [@unittype](https://t.me/unittype)
 - Matrix: [mlwr](https://matrix.to/#/@mlwr:matrix.org)
 - NotABug: [nl](https://notabug.org/nl)
