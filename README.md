@@ -10,8 +10,8 @@
 🌱 I’m currently learning: Rust, Assembly, RE, etc... 
 
 📫 How to reach me:
-- www: [p.exploit.rs](https://p.exploit.rs/nil)
-- E-Mail: [nil@exploit.rs](mailto:nil@exploit.rs)
+- www: [0day.is](https://0day.is)
+- E-Mail: [supp@0day.is](mailto:supp@0day.is)
 - Telegram: [@unittype](https://t.me/unittype)
 - Matrix: [mlwr](https://matrix.to/#/@mlwr:matrix.org)
 - NotABug: [nl](https://notabug.org/nl)
