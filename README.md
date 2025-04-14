@@ -1,6 +1,6 @@
 # About Me
 
-🔭 I’m currently working on [@0dayis](https://github.com/nsoclub/)
+🔭 I’m currently working on [@nsoclub](https://github.com/nsoclub/)
 
 🌱 I’m currently learning: CoreBluetooth, RE
 
