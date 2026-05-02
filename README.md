@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 - www: [haunted.fail](https://haunted.fail)
-- E-Mail: [nullopt_t@proton.me](mailto:nullopt_t@proton.me)
+- E-Mail: [supp@haunted.fail](mailto:supp@haunted.fail)
 - Telegram: [@unittype](https://t.me/unittype)
 - Matrix: [mlwr](https://matrix.to/#/@mlwr:matrix.org)
 - NotABug: [nl](https://notabug.org/nl)
